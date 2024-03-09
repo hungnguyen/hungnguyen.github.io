@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: asiatoptravel.png
+alt: AsiaTopTravel Travel & Tours Website
+project-date: January 2018
+client: AsiaTopTravel
+category: Web Development
+description: Website AsiaTopTravel is a website that I made according to the request and design provided by the customer. This is a website about tourism and information related to tourism and destinations. This website was completed a long time ago. Tech stack C#, ASP.NET WebForm, SQL Server, Jquery and Bootstrap.
+---

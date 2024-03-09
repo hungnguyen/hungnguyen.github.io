@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: icafe.png
+alt: iCafe Coffee Shop
+project-date: August 2019
+client: iCafe Coffee Shop
+category: Web Development
+description: iCafe is a coffee shop management system, this is my personal project. The system includes important functions such as table management, menu management, food & beverage management, and finally reservations and billing. This system is researched and developed using MERN stack technologies MongoDB, ExpressJs, React, Node.
+---

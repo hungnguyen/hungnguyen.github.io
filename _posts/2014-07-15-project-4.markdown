@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: headlesscms.png
+alt: Headless CMS
+project-date: April 2021
+client: Headless CMS
+category: Web Development
+description: This is Headless CMS designed as RestAPI. This API provides basic transactions such as GET, POST, PUT, DELETE to manage website content. The API will be used to integrate with the management interface developed with frameworks such as ReactJs, NextJs,... Tech stack C#, ASP.NET Core, SQL Server.
+---

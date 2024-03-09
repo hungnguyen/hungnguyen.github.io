@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: newsfeed.png
+alt: News Feed
+project-date: October 2022
+client: News Feed
+category: Web Development
+description: News Feed is a web application that aggregates RSS news from different sources. This web app will help users update news quickly with just a simple and friendly interface. Tech stack React, Redux, Material UI.
+---

@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: admincms.png
+alt: Admin CMS Panel
+project-date: March 2020
+client: Admin CMS Panel
+category: Web Development
+description: This is a content management system designed and developed by myself to meet the basic requirements of a business website, news website, online sales website, blog, ... of customers. With the characteristics of ease of use, high performance, and easy maintenance. Tech stack C#, ASP.NET Core API, SQL Server, React, Redux, Material UI.
+---

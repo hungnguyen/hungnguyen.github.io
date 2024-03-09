@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: angardens.png
+alt: AnGardens E-commerce Website
+project-date: September 2021
+client: AnGardens
+category: Web Development
+description: Website AnGardens.com is the latest product I created based on customer requests and designs. This is a website for product introduction and online ordering. This website sells ornamental plants and garden furniture products. Tech stack C#, ASP.NET core MVC, SQL Server, Jquery and Bootstrap.
+---
